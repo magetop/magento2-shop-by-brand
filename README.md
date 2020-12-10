@@ -1,6 +1,6 @@
-# Magento 2 Shop By Brand by MageTop
+# Magento 2 Shop By Brand by Magetop
 
-**Magento 2 Shop By Brand Extension** by MageTop brings a wholly new level of looking up products for visitors - Shop by brand! Your visitors will be given a chance to look for the brand they like easily as well as experience unique attractive brand page.
+**Magento 2 Shop By Brand Extension** by Magetop brings a wholly new level of looking up products for visitors - Shop by brand! Your visitors will be given a chance to look for the brand they like easily as well as experience unique attractive brand page.
 
 ## Highlight features
 
@@ -14,13 +14,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-shop-by-brand-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full/shop-by-brand.html
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
